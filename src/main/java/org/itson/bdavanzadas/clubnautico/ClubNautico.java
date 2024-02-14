@@ -46,6 +46,7 @@ public class ClubNautico {
 //        } catch (PersistenciaException e) {
 //            logger.log(Level.SEVERE, null, e);
 //        }
+        //Prueba
 
 
         try {     
